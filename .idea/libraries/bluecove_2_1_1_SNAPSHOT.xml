@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bluecove-2.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/bluecove-2.1.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/bluecove-2.1.1-SNAPSHOT.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
